@@ -1,0 +1,316 @@
+/* 
+  Localizable.strings
+  RealEstateFinder
+
+ 
+  Copyright (c) 2014 MangasaurGames. All rights reserved.
+*/
+
+"SMS_NO_ERROR" = "SMS Number Error";
+
+"SMS_NO_ERROR_DETAILS" = "No SMS Number Provided.";
+
+"LOCATION_SERVICE_NOT_ENABLED" = "Location Service not enabled. Enabled it in Settings > Privacy > Location Services > On";
+
+"LOCATION_SERVICE_ERROR" = "Location Service Error";
+
+"LOCATION_SERVICE_FAIL" = "Cannot get location.";
+
+"LOADING" = "Loading";
+
+"NETWORK_ERROR" = "Network Error";
+
+"NETWORK_ERROR_DETAILS" = "No Network Connection.";
+
+"USER_LOCATION_ERROR" = "User Location Error";
+
+"USER_LOCATION_ERROR_DETAILS" = "Cannot determine route because user cannot detect its location.";
+
+"MAP_PIN_ERROR" = "User Location Error";
+
+"MAP_PIN_ERROR_DETAILS" = "Cannot determine route because user havent selected any map pin.";
+
+
+"MAP_DISTANCE_UNIT" = "Km.";
+
+"STATUS" = "Status";
+"PRICE" = "Price";
+"BEDS" = "Beds";
+"BATHS" = "Baths";
+"SQFT" = "Sqft";
+"PRICE_SQFT" = "Price/Sqft";
+"ROOMS" = "Rooms";
+"LOT_SIZE" = "Lot Size";
+"BUILT_IN" = "Buit in";
+"PROPERTY_TYPE" = "Property Type";
+"DATE_ADDED" = "Date Added";
+"ADDRESS" = "Address";
+"FEATURES" = "Features";
+"SITE_LOCATION" = "Site Location";
+
+
+"FACEBOOK_STATUS_SHARE" = "Cool! and cheap. Buy me :)";
+
+"TWITTER_STATUS_SHARE" = "Cool! and cheap. Buy me :)";
+
+"FACEBOOK_AUTHENTICATION_FAILED" = "Facebook Authentication Failed";
+
+"FACEBOOK_AUTHENTICATION_FAILED_MSG" = "Go to Settings > Facebook > Enter Username/Password";
+
+"TWITTER_AUTHENTICATION_FAILED" = "Twitter Authentication Failed";
+
+"TWITTER_AUTHENTICATION_FAILED_MSG" = "Go to Settings > Twitter > Enter Username/Password";
+
+"EMAIL_ERROR" = "Email Error";
+
+"EMAIL_ERROR_MSG" = "Cannot proceed due to empty email address.";
+
+"EMAIL_SUBJECT" = "Real Estate Inquiry";
+
+"EMAIL_BODY" = "I am interested on the item, would you mind to give us a tour?";
+
+"ID" = "ID : ";
+
+"ADDRESS" = "ADDRESS : ";
+
+"EMAIL_SERVICE_ERROR" = "Email Service Error";
+
+"EMAIL_SERVICE_ERROR_MSG" = "Your device doesnt support email service.";
+
+"CONTACT_NO_SERVICE_ERROR" = "Contact Number Error";
+
+"CONTACT_NO_SERVICE_ERROR_MSG" = "Cannot proceed due to empty contact number.";
+
+"REAL_ESTATE_INQUIRY" = "Real Estate Inquiry ";
+
+
+"FOR_SALE" = "For Sale";
+
+"FOR_RENT" = "For Rent";
+
+
+
+"HEADER_TITLE_1" = "USER";
+
+"HEADER_TITLE_2" = "CATEGORIES";
+
+"HEADER_TITLE_3" = "EXTRAS";
+
+"HEADER_TITLE_4" = "SETTINGS";
+
+
+"LIST_TITLE_ENTRY_1" = "Login";
+
+
+"LIST_TITLE_FIRST_ENTRY_1" = "Homes for Sale";
+
+"LIST_TITLE_FIRST_ENTRY_2" = "Homes for Rent";
+
+"LIST_TITLE_FIRST_ENTRY_3" = "My Saves";
+
+"LIST_TITLE_FIRST_ENTRY_4" = "Find an Agent";
+
+
+"LIST_TITLE_SECOND_ENTRY_1" = "Featured";
+
+"LIST_TITLE_SECOND_ENTRY_2" = "RSS";
+
+"LIST_TITLE_SECOND_ENTRY_3" = "About Us";
+
+"LIST_TITLE_SECOND_ENTRY_4" = "Terms & Conditions";
+
+"LIST_TITLE_USER_LOGGED_ENTRY_1" = "Edit Profile";
+
+"LIST_TITLE_USER_LOGGED_ENTRY_2" = "View Listing";
+
+
+"COMPANY" = "Company";
+"CONTACT_NO" = "Contact No";
+"EMAIL" = "Email";
+"SMS_NO" = "SMS No";
+"FACEBOOK" = "Facebook";
+"TWITTER" = "Twitter";
+"LINKEDIN" = "LinkedIn";
+"AGENT_ADDRESS" = "Address";
+
+"PROFILE_DETAILS" = "Profile Details";
+
+"STATUS_AGENT" = "Status:";
+
+
+"LOGIN_ERROR" = "Login Error";
+
+"LOGIN_CONNECTING_ERROR" = "Error occured while connecting.";
+
+"REGISTER_ERROR" = "Register Error";
+
+"REGISTER_ERROR_DETAILS" = "Username and Password field are required.";
+
+"LOGGING_IN" = "Logging-In";
+
+"ALL_FIELDS_REQUIRED_ERROR_DETAILS" = "All fields are required.";
+
+"PASSWORD_LENGTH_ERROR_DETAILS" = "Password must be at least 8 characters long.";
+
+"EMAIL_ADDRESS_ERROR_DETAILS" = "Invalid email address.";
+
+
+"REGISTERING_USER" = "Registering User";
+
+"SIGNUP_ERROR_DETAILS" = "Problems encountered while signing-up.";
+
+"SIGNUP_CONNECTING_ERROR" = "Error occured while connecting.";
+
+"LOGIN" = "Login";
+
+"REGISTER" = "Register";
+
+"TEXT_VIEW_PLACEHOLDER_TEXT" = "Details";
+
+"VIEW_LISTING" = "View Listing";
+"EDIT_PROFILE" = "Edit Profile";
+"LOGOUT" = "Logout";
+"CANCEL" = "Cancel";
+
+"UNSYNC_CONNECTION_ERROR_DETAILS" = "Error occured while connecting.";
+
+"UNSYNC_CONNECTION_ERROR" = "Sync Error";
+
+"SYNCING_PHOTOS" = "Syncing Photos";
+
+"FIELD_REQUIRED_ERROR" = "Field Required";
+
+"FIELD_REQUIRED_ERROR_DETAILS_REALESTATE" = "Price, Address, Property Type, Price Per Sqft, and Sqft are required.";
+
+"CREATING_REALESTATE" = "Creating Real Estate";
+
+"UPDATING_REALESTATE" = "Updating Real Estate";
+
+"MAX_PHOTOS_UPLOAD_AGENT" = " Photos are allowed to be define.";
+
+"MAX_PHOTOS_UPLOAD_AGENT_ERROR" = "Max Photos Error";
+
+
+"IMAGE_SELECTION_ERROR" = "Image Selection Error";
+
+"IMAGE_SELECTION_ERROR_DETAILS" = "Thumbnail and Large photo are required.";
+
+"TEXTFIELD_EMPTY_ERROR" = "Textfields Error";
+
+"TEXTFIELD_EMPTY_ERROR_DETAILS" = "All textfields are required and should not be empty.";
+
+"STATUS" = "Status";
+"PRICE" = "Price";
+"BEDS" = "Beds";
+"BATHS" = "Baths";
+"SQFT" = "Sqft";
+"PRICE_SQFT" = "Price/Sqft";
+"ROOMS" = "Rooms";
+"LOT_SIZE" = "Lot Size";
+"BUILT_IN" = "Built in";
+
+"PROPERTY_TYPE" = "Ppty. Type";
+"PROPERTY_TYPE_VAL" = "Property Type";
+
+"ADDRESS" = "Address";
+"PHOTOS" = "Photos";
+"COUNTRY" = "Country";
+"ZIPCODE" = "Zip Code";
+
+"CREATE_BUTTON_REALESTATE" = "Create";
+
+"CREATE_REALESTATE_HEADER" = "Create Real Estate";
+
+"PHOTOS_INFO" = "Photo(s)";
+
+"UPDATE_REALESTATE_HEADER" = "Update Real Estate";
+
+"UPDATE_BUTTON_REALESTATE" = "Update";
+
+"REMOVE_BUTTON_REALESTATE" = "Remove";
+
+"BUTTON_ADD_URL" = "Add URL";
+"BUTTON_ADD_IMAGE" = "Add Image";
+"BUTTON_DONE" = "Done";
+
+"NAME" = "Name";
+
+"UPDATE_AGENT_HEADER_1" = "Update Agent Profile";
+"UPDATE_AGENT_HEADER_2" = "Contact Details";
+
+"CREATE_AGENT_HEADER_1" = "Create Agent Profile";
+
+"UPDATE_BUTTON_AGENT" = "Update";
+
+"CREATE_BUTTON_AGENT" = "Create";
+
+
+"FIELD_REQUIRED_ERROR_DETAILS_AGENT" = "Name, Email, Address, Contact No, and SMS are required.";
+
+
+"CREATING_AGENT" = "Creating Agent";
+
+"UPDATING_AGENT" = "Updating Agent";
+
+"CREATING_ROUTES" = "Creating Routes...";
+
+"CONTACT_US" = "Contact Us";
+
+"ABOUT_US" = "About Us";
+
+"ABOUT_US_DETAIL_1" = "We are small team that aims for awesome Game and Apps Development. There are no application we cannot do as long as there is music that keeps us going and creating wonderful apps.";
+
+"ABOUT_US_DETAIL_2" = "If you are looking for awesome Teams that will make your Apps interactive and awesome. Just contact us.";
+
+"SOLD" = "Sold";
+
+
+"EMAIL_SUBJECT_ABOUT_US" = "About Us Inquiry";
+
+"EMAIL_SUBJECT_ABOUT_US_MSG" = "Hi!, Good Day!";
+
+"SEARCH_KEYWORDS" = "Search City, State or Zip";
+
+
+"SEARCH" = "Search";
+
+"CLEAR" = "Clear";
+
+"NO_MIN" = "No Min";
+"NO_MAX" = "No Max";
+
+"SEARCH_CURRENCY_SIGN" = "$";
+
+"ANY" = "Any";
+
+"SEARCHING" = "Searching";
+
+"ALL_TYPE" = "All Type";
+
+
+"SEARCH_FILTERS" ="Filters";
+
+"SEARCH_PRICE_RANGE" ="Price Range";
+
+"SEARCH_PROPERTY_TYPE" ="Property Type";
+
+"SEARCH_BEDS" ="Beds";
+
+"SEARCH_BATHS" ="Baths";
+
+"SEARCH_SQUARE_FOOTAGE" ="Square Footage (Sqft)";
+
+"SEARCH_YEARS_BUILT" ="Years Built";
+
+"SEARCH_LOT_SIZE" ="Lot Size (Sqft)";
+
+"CURRENT_LOCATION" = "Current Location";
+
+"DRAG_ME" = "Drag Me!";
+
+"NO_RESULTS" = "No Results Found.";
+
+"LOGIN_ERROR" = "Please LogIn to continue";
+
+"TEXTVIEW_CHARACTER_LIMIT_ALERT" = "Maximum Characters limit is 500.";
+

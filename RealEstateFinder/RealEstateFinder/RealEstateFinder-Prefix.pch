@@ -1,0 +1,68 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+    #import <MapKit/MapKit.h>
+    #import <AddressBook/AddressBook.h>
+    #import <Social/Social.h>
+    #import <MessageUI/MessageUI.h>
+    #import <FacebookSDK/FacebookSDK.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+
+    #import "MGParser.h"
+    #import "Config.h"
+    #import "UIConfig.h"
+    #import "MGUIAppearance.h"
+    #import "MGRawView.h"
+    #import "MGUtilities.h"
+    #import "MGHelper.h"
+    #import "UserAccessSession.h"
+    #import "UserSession.h"
+    #import "MGMapAnnotation.h"
+    #import "PropertyType.h"
+    #import "SearchParams.h"
+
+    #import "JSONKit.h"
+    #import "AFNetworking.h"
+    #import "ExtendedNSLog.h"
+    #import "MGUIImageExtras.h"
+    #import "MGUtilities.h"
+    #import "MGImageViewer.h"
+    #import "TBXML.h"
+    #import "MGMapRoute.h"
+    #import "NSStringExtras.h"
+    #import "Agent.h"
+    #import "Country.h"
+    #import "PriceHistory.h"
+    #import "RealEstate.h"
+    #import "Photo.h"
+    #import "Favorite.h"
+    #import "CoreDataController.h"
+    #import "DataParser.h"
+    #import "MBProgressHUD.h"
+    #import "MGRawView.h"
+    #import "UIImage+ImageEffects.h"
+    #import "MGListView.h"
+    #import "MGListCell.h"
+    #import "FHSTwitterEngine.h"
+    #import "MGFileManager.h"
+    #import "MGGalleryView.h"
+    #import "MGNestedTab.h"
+    #import "SearchCell.h"
+    #import "DataSource.h"
+    #import "SearchRawView.h"
+
+#endif

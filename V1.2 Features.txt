@@ -1,0 +1,61 @@
+————————————————————————————————————————————
+V1.2
+————————————————————————————————————————————
+Updated to work with iOS 8
+Remove support for XML, now only supports JSON (Optional for XML)
+Updated PHP Backend encoding problems
+
+————————————————————————————————————————————
+V1.1
+————————————————————————————————————————————
+REST Agent Bug
+Paper Fold Animation adjustments
+Some Localization Adjustments
+Fixed Date Formatting for Agent
+UI Adjustments
+Fixed Issue Menu button not clickable.
+Remove dragging on Navigation bar.
+Map Draw Adjustments
+Fix Bug on Map Draw that it doesnt clear previous Map Pins.
+
+
+————————————————————————————————————————————
+V1.0
+————————————————————————————————————————————
+
+PHP Backend
+
+Can manage users by allowing or denying access.
+Property Type creation, modificaiton, and deletion.
+RealEstate creation, modificaiton, and deletion.
+Photo Upload via URL or by File.
+Google Maps Integration.
+
+
+iOS App
+
+GeoFencing
+Offline Usage
+Add/Edit/Delete of Real Estate
+Social Login (Twitter/Facebook/Web)
+AdMob/iAd
+Cool Mobile UI Interaction
+Paper Fold Animation - Unique UI Interaction
+Pull Down Bouncy UI.
+Share to Facebook
+Share to Twitter
+Call Integration
+Email Integration
+SMS Integration
+User can add Favorites
+Google Directions.
+Advance Search
+About Us Panel Added
+Terms & Conditions Panel Added
+User can edit its Profile (Agents)
+Draw Objects in the map and gets all the Map Pins inside the drawing.
+Ability to save user search parameters for faster navigation when it search again
+Image Pinch and Zoom
+Supports 3.5/4 inch Screen Display.
+Supports 64 bit Architecture.
+
