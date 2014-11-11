@@ -30,4 +30,5 @@
 @property (nonatomic, retain) NSString * company;
 @property (nonatomic, retain) NSString * company1;
 
+
 @end
