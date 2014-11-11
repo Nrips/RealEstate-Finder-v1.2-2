@@ -3,7 +3,7 @@
 //  RealEstateFinder
 //
 //  
-//  Copyright (c) 2014 Mangasaur Games. All rights reserved.
+//  Copyright (c) 2014 Mangasaur Games. All rights reserved. coding by neuron
 //
 
 #import <Foundation/Foundation.h>
@@ -28,6 +28,6 @@
 @property (nonatomic, retain) NSString * fb;
 @property (nonatomic, retain) NSString * linkedin;
 @property (nonatomic, retain) NSString * company;
-
+@property (nonatomic, retain) NSString * company1;
 
 @end

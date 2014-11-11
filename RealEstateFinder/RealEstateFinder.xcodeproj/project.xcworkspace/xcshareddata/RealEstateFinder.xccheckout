@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
+	<string>90DE3D1A-C490-417A-9305-D5035CB56605</string>
+=======
+	<string>A796273B-495E-4592-89BC-F4649BE36D18</string>
+>>>>>>> newbranch
+	<key>IDESourceControlProjectName</key>
+	<string>RealEstateFinder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+<<<<<<< HEAD
+		<key>FE2595A0-F77E-49F6-B714-829B59E893C1</key>
+		<string>https://github.com/Nrips/RealEstate-Finder-v1.2-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RealEstateFinder/RealEstateFinder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE2595A0-F77E-49F6-B714-829B59E893C1</key>
+=======
+		<key>DA4A184E1E74C4F2F9AF42BF9044A5BAC6FCD710</key>
+		<string>https://github.com/Nrips/RealEstate-Finder-v1.2-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RealEstateFinder/RealEstateFinder.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA4A184E1E74C4F2F9AF42BF9044A5BAC6FCD710</key>
+>>>>>>> newbranch
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Nrips/RealEstate-Finder-v1.2-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+<<<<<<< HEAD
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE2595A0-F77E-49F6-B714-829B59E893C1</string>
+=======
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA4A184E1E74C4F2F9AF42BF9044A5BAC6FCD710</string>
+>>>>>>> newbranch
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
+			<string>FE2595A0-F77E-49F6-B714-829B59E893C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RealEstate Finder v1.2 2</string>
+=======
+			<string>DA4A184E1E74C4F2F9AF42BF9044A5BAC6FCD710</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RealEstate%20Finder%20v1.2%202</string>
+>>>>>>> newbranch
+		</dict>
+	</array>
+</dict>
+</plist>
